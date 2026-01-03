@@ -1,0 +1,22 @@
+/* Style body */
+body {
+    font-family: Arial;
+}
+
+/* Style labels */
+label {
+    font-weight: bold;
+}
+
+/* Style input fields */
+input {
+    padding: 5px;
+    margin: 5px;
+}
+
+/* Style submit button */
+input[type="submit"] {
+    background-color: green;
+    color: white;
+    border: none;
+}
