@@ -1,0 +1,24 @@
+# Maven
+target/
+build/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Node / frontend (safe to keep)
+node_modules/
+
+# Environment files
+.env
+
+# Tomcat
+*.war
